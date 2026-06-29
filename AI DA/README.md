@@ -34,8 +34,8 @@ You are brought in as a Junior DA to support the regulatory response — analysi
 
 ## Getting Started
 
-1. Clone or download this repo
-2. Open the `notebooks/` folder - each task has its own `.ipynb` notebook
+1. All files live inside the `AI DA/` folder
+2. Open the `AI DA/notebooks/` folder — each task has its own `.ipynb` notebook
 3. Work through each notebook sequentially
 4. Complete all TODO cells and export outputs before moving on
 
